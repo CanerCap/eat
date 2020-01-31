@@ -1,0 +1,17 @@
+Completion
+- All compulsory parts completed
+- Section 3
+- Section 5
+
+
+Additional Information
+- During the projects development I was unable to able to open any sort of project in the IDE Netbeans.
+After discussions with my lecturers I was advised to try another IDE so this was coded in Intellij IDEA
+
+- I've had many issues with the dependency JSTL and I was unable to implement it's forEach functionality.
+The lectures have been made aware of this issue yet we were all unable to solve this issue.
+On the LessonTimeTableView I have also included direct calls to the data to prove it was accessible from the view.
+
+
+Java Code is under the package 'code' which splits into 'controller' and 'model' packages.
+All jsp and jspx files are under the package 'web'
